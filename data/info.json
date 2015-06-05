@@ -1,0 +1,7 @@
+{
+	"test" : "Test data string",
+	"pendu" : {
+		"version":2,
+		"dico_url":"https://raw.githubusercontent.com/makidelille/PenduApp/master/data/public/basedic.json"
+	}
+}
