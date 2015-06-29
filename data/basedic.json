@@ -2,12 +2,12 @@
     "version": 2,
     "dicos": [
         {
-            "id": "base_fr-FR",
+            "id": "fr-FR",
             "name": "fr_FR",
             "link":"https://raw.githubusercontent.com/makidelille/PenduPublicRes/master/data/libs/fr_FR.json" 
         },
         {
-            "id": "base_en-US",
+            "id": "en-US",
             "name": "en_US",
             "link" :"https://raw.githubusercontent.com/makidelille/PenduPublicRes/master/data/libs/en_EN.json"
         }
